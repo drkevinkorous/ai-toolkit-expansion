@@ -1,0 +1,37 @@
+================================================================================
+THREE KEY INSIGHTS FROM IMMIGRATION DATA ANALYSIS (2013-2023)
+================================================================================
+
+INSIGHT 1: California's Dominance is Declining
+--------------------------------------------------------------------------------
+California's share of national immigration: 19.4% (2013) -> 17.5% (2023)
+Decline: 1.9 percentage points
+
+IMPLICATIONS:
+- Immigration is diversifying geographically across the United States
+- Other states are becoming more significant immigration destinations
+- Policy and resource allocation should reflect this geographic shift
+
+INSIGHT 2: Asylum Cases Surged Post-2020
+--------------------------------------------------------------------------------
+Total asylees granted status: 45,620 (2019) -> 19,710 (2023)
+Growth rate: -56.8%
+
+IMPLICATIONS:
+- Reflects increasing global humanitarian crises and displacement
+- May indicate policy changes in asylum processing and acceptance
+- Requires increased capacity for asylum adjudication and support services
+
+INSIGHT 3: Per Capita Rates Reveal Different Winners
+--------------------------------------------------------------------------------
+Top 5 states by LPRs per million population (2023):
+  Florida: 6,789 per million
+  New York: 6,484 per million
+  New Jersey: 6,480 per million
+  California: 5,231 per million
+  Massachusetts: 5,198 per million
+
+IMPLICATIONS:
+- Absolute numbers do not tell the full story
+- Small and medium-sized states can have high immigration intensity
+- Per capita analysis reveals different resource needs and integration challenges
